@@ -1,0 +1,33 @@
+.container{
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(to right bottom,#ebf4f5, #b5c6e0);
+}
+h3{
+    color:rgb(158, 158, 231);
+    text-align: center;
+}
+.form-box{
+   width: 50%;
+   max-width: 400px;
+   background-color: #ffffff;
+   border-radius: 8px;
+   padding: 20px 28px;
+   margin-inline:20px;
+   text-align: center
+}
+.icons{
+    display: flex;
+    justify-content:center;
+}
+.icons img{
+    max-height:50px;
+    text-align: center;
+}
+
+
